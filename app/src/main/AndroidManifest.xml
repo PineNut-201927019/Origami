@@ -9,6 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".DiagramSingle_TwoLegBoat_Activity"/>
+        <activity android:name=".DiagramChart_TwoLegBoat_Activity"/>
+        <activity android:name=".Unit_TwoLegBoat_Activity"/>
+        <activity android:name=".Category_TraditionalApplication_Activity"/>
+        <activity android:name=".CatalogActivity"/>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
